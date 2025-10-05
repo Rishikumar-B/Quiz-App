@@ -37,16 +37,17 @@ A simple and interactive **Quiz Application** built with **React**. Users can an
 quiz-app/
 │
 ├── src/
-│ ├── assets/
-│ │ └── data.js # Quiz questions array
-│ ├── components/
-│ │ └── Quiz.jsx # Main Quiz component
-│ ├── App.js
-│ └── index.js
+│   ├── assets/
+│   │   └── data.js        # Quiz questions array
+│   ├── components/
+│   │   └── Quiz.jsx       # Main Quiz component
+│   ├── App.js
+│   └── index.js
 ├── public/
-│ └── index.html
+│   └── index.html
 ├── package.json
 └── Quiz.css
+
 
 ## Future Enhancements
 
