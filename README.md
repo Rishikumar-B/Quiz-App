@@ -1,14 +1,6 @@
 # Quiz App
 
 A simple and interactive **Quiz Application** built with **React**. Users can answer multiple-choice questions, get immediate feedback, track their score, and reset the quiz to try again.
-
----
-
-## Demo
-
-![Quiz App Screenshot](path/to/screenshot.png)  
-*(Add a screenshot of your app here)*
-
 ---
 
 ## Features
@@ -56,7 +48,7 @@ quiz-app/
 ├── package.json
 └── Quiz.css
 
-##Future Enhancements
+## Future Enhancements
 
 Add a timer for each question.
 
