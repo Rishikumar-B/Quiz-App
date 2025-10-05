@@ -34,20 +34,7 @@ A simple and interactive **Quiz Application** built with **React**. Users can an
 
 ## Project Structure
 
-quiz-app/
-│
-├── src/
-│   ├── assets/
-│   │   └── data.js        # Quiz questions array
-│   ├── components/
-│   │   └── Quiz.jsx       # Main Quiz component
-│   ├── App.js
-│   └── index.js
-├── public/
-│   └── index.html
-├── package.json
-└── Quiz.css
-
+<img width="605" height="456" alt="image" src="https://github.com/user-attachments/assets/56473957-39bc-4200-9675-2a73c648173b" />
 
 ## Future Enhancements
 
