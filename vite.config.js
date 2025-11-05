@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Quiz-App/', // For GitHub Pages deployment
+  base: '/Quiz-App/', // ← ADD THIS LINE
 })
