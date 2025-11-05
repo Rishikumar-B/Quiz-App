@@ -43,5 +43,15 @@ export const data = [
     option3: "Cascading Style Sheets",
     option4: "Colorful Style Sheets",
     ans: 3
-  }
+  },
+  // In src/assets/data.js - Add a new question
+{
+  id: 6,
+  question: "What is DevOps?",
+  option1: "A programming language",
+  option2: "A combination of Development and Operations",
+  option3: "A type of database", 
+  option4: "A cloud provider",
+  ans: 2
+}
 ];
