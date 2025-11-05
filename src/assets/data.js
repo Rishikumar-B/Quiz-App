@@ -6,52 +6,47 @@ export const data = [
     option2: "Madrid",
     option3: "Paris",
     option4: "Rome",
-    ans: 3
+    ans: 3,
+    explanation: "Paris is the capital and most populous city of France."
   },
   {
     id: 2,
-    question: "Which is the largest planet in our solar system?",
-    option1: "Earth",
-    option2: "Jupiter",
-    option3: "Saturn",
-    option4: "Mars",
-    ans: 2
+    question: "Which planet is known as the Red Planet?",
+    option1: "Venus",
+    option2: "Mars",
+    option3: "Jupiter",
+    option4: "Saturn",
+    ans: 2,
+    explanation: "Mars appears red due to iron oxide (rust) on its surface."
   },
   {
     id: 3,
-    question: "What is 2 + 2?",
-    option1: "3",
-    option2: "4",
-    option3: "5",
-    option4: "6",
-    ans: 2
+    question: "What is the largest mammal in the world?",
+    option1: "African Elephant",
+    option2: "Blue Whale",
+    option3: "Giraffe",
+    option4: "Polar Bear",
+    ans: 2,
+    explanation: "The blue whale is the largest animal known to have ever existed."
   },
   {
     id: 4,
-    question: "Which language runs in web browsers?",
-    option1: "Java",
-    option2: "Python",
+    question: "Which language is primarily used for web development?",
+    option1: "Python",
+    option2: "Java",
     option3: "JavaScript",
     option4: "C++",
-    ans: 3
+    ans: 3,
+    explanation: "JavaScript is the programming language of the Web."
   },
   {
     id: 5,
-    question: "What does CSS stand for?",
-    option1: "Computer Style Sheets",
-    option2: "Creative Style System",
-    option3: "Cascading Style Sheets",
-    option4: "Colorful Style Sheets",
-    ans: 3
-  },
-  // In src/assets/data.js - Add a new question
-{
-  id: 6,
-  question: "What is DevOps?",
-  option1: "A programming language",
-  option2: "A combination of Development and Operations",
-  option3: "A type of database", 
-  option4: "A cloud provider",
-  ans: 2
-}
+    question: "What does CPU stand for?",
+    option1: "Computer Processing Unit",
+    option2: "Central Processing Unit",
+    option3: "Central Program Utility",
+    option4: "Computer Program Unit",
+    ans: 2,
+    explanation: "CPU stands for Central Processing Unit, the brain of the computer."
+  }
 ];
